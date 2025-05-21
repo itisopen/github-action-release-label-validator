@@ -1,8 +1,9 @@
 
 
 <!-- markdownlint-disable -->
-# Release Label Validator <a href="https://itisopen.net/homepage?utm_source=github&utm_medium=readme&utm_campaign=itisopen/github-action-release-label-validator&utm_content="><img align="right" src="https://itisopen.net/logo-300x69.svg" width="150" /></a>
-<a href="https://github.com/itisopen/github-action-release-label-validator/releases/latest"><img src="https://img.shields.io/github/release/itisopen/github-action-release-label-validator.svg" alt="Latest Release"/></a><a href="https://slack.itisopen.net"><img src="https://slack.itisopen.net/badge.svg" alt="Slack Community"/></a>
+<a href="https://itisopen.net/homepage"><img src="https://github.com/itisopen/github-action-release-label-validator/blob/itisopen/.github/banner.png?raw=true" alt="Project Banner"/></a><br/>
+    <p align="right">
+<a href="https://github.com/itisopen/github-action-release-label-validator/releases/latest"><img src="https://img.shields.io/github/release/itisopen/github-action-release-label-validator.svg" alt="Latest Release"/></a><a href="https://slack.itisopen.net"><img src="https://slack.itisopen.net/badge.svg" alt="Slack Community"/></a></p>
 <!-- markdownlint-restore -->
 
 <!--
