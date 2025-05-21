@@ -1,6 +1,6 @@
 name: 'Release Label Validator'
 description: 'Validate Pull Request Release Labels'
-author: hello@cloudposse.com
+author: hello@itisopen.net
 branding:
   icon: 'file'
   color: 'white'

@@ -3,6 +3,6 @@ _extends: .github
 repository:
   name: github-action-release-label-validator
   description: ""
-  homepage: https://cloudposse.com/accelerate
+  homepage: https://itisopen.net/accelerate
   topics: ""
 
